@@ -1,16 +1,16 @@
 <h1 align="center">{404 Page Challenge}</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+  Solução de um desafio de: <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="">
       Solution
     </a>
     <span> | </span>
@@ -20,54 +20,58 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-<!-- OVERVIEW -->
-
-## Overview
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
-## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+## Visão geral
 
-## Contact
+Versão de celular
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+![screenshot](https://i.ibb.co/DDnrgWj/Captura-de-tela-2022-05-19-00-10-02.png)
+
+
+Conclusão do [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) de pagina de erro 404 do DevChallenge.
+Simples de ser concluido e não muito demorado, revisei conceitos de responsividade e introduzi ele ao ReactJS da forma que conhecia no momento do desafio.
+
+Foi uma experiencia divertida e não muito desafiadora, quebrando a cabeça em como usar o styled-components apenas.
+
+### Construido com
+
+- [ReactJS](https://pt-br.reactjs.org)
+- [Styled-Components](https://styled-components.com/)
+
+## Teste em sua maquina
+
+Você pode ver a aplicação funcionando na  <a href="">Demo</a> ou executar em seu propio computador
+para isso, siga os passoa a baixo:
+
+### Pré Requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) (O qual utilizei)
+
+### Passo a Passo
+
+  1. Clone este repositorio em sua maquina utilizando o gitbash:
+
+  ```console
+    $git clone 
+  ```
+  
+2. Abra a pasta do projeto em seu editor de código e abra o terminal Node do mesmo
+3. Instale o pacote de dependencias do Yarn:
+  ```console
+    $ yarn install
+  ```
+4. Execute a aplicação no terminal do editor com o codigo
+  ```console
+    $ yarn start
+  ```
+
+
+## Contato
+
+- LinkedIn [José Costa](https://www.linkedin.com/in/geyzoncosta/)
+- GitHub [@GeyzonErik](https://github.com/GeyzonErik)
+- Twitter [@Erikles47](https://twitter.com/erikles47)
