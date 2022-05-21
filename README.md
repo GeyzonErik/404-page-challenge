@@ -58,7 +58,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
   1. Clone este repositorio em sua maquina utilizando o gitbash:
 
   ```console
-    $git clone 
+    $git clone https://github.com/GeyzonErik/404-page-challenge.git
   ```
   
 2. Abra a pasta do projeto em seu editor de código e abra o terminal Node do mesmo
