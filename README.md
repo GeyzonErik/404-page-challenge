@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://404-page-challenge-mu.vercel.app/" target='_blank'>
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/GeyzonErik/404-page-challenge/tree/master/src" target='_blank'>
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target='_blank'>
       Challenge
     </a>
   </h3>
