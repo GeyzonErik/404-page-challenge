@@ -26,10 +26,12 @@
 
 ## Visão geral
 
-Versão de celular
-
-![screenshot](https://i.ibb.co/DDnrgWj/Captura-de-tela-2022-05-19-00-10-02.png)
-
+<div align="center">
+  
+  <img width='480px' src='https://media3.giphy.com/media/q7SLixyloGD63gwBTt/giphy.gif?cid=790b76118e234a5cadc5b26aecf8947e477055bf11431ceb&rid=giphy.gif&ct=g' />
+  
+</div>
+ 
 
 Conclusão do [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) de pagina de erro 404 do DevChallenge.
 Simples de ser concluido e não muito demorado, revisei conceitos de responsividade e introduzi ele ao ReactJS da forma que conhecia no momento do desafio.
